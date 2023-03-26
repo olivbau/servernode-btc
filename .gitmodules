@@ -1,0 +1,9 @@
+[submodule "Fulcrum"]
+	path = Fulcrum
+	url = https://github.com/cculianu/Fulcrum
+[submodule "electrs"]
+	path = electrs
+	url = https://github.com/romanz/electrs/
+[submodule "bitcoin"]
+	path = bitcoin
+	url = https://github.com/bitcoin/bitcoin
